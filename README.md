@@ -18,8 +18,6 @@ Full Stack Software Developer with 3+ years of experience building enterprise ap
 
 LinkedIn: https://linkedin.com/in/shankarpmathapati
 
-Email: shankarpmathapati@gmail.com
-
 ---
 
 *"Code should be simple, maintainable, and built to solve real problems."*
